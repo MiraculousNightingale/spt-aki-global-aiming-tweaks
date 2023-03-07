@@ -1,0 +1,15 @@
+{
+	"logger": {
+		"verbose": false
+	},
+	"ragfairConfig": {
+		"runIntervalSeconds": 40,
+		"sell": {
+			"time": {
+				"base": 15,
+				"min": 5,
+				"max": 15
+			}
+		}
+	}
+}

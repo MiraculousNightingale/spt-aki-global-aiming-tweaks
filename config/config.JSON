@@ -1,0 +1,11 @@
+{
+	"logger": {
+		"verbose": true
+	},
+	"multiply":{
+	},
+	"set":{
+		"RecoilVertBonus": 0,
+		"RecoilBackBonus": 0
+	}
+}
