@@ -1,15 +1,11 @@
 {
 	"logger": {
-		"verbose": false
+		"verbose": true
 	},
-	"ragfairConfig": {
-		"runIntervalSeconds": 40,
-		"sell": {
-			"time": {
-				"base": 15,
-				"min": 5,
-				"max": 15
-			}
-		}
+	"multiply":{
+	},
+	"set":{
+		"RecoilVertBonus": 0,
+		"RecoilBackBonus": 0
 	}
 }

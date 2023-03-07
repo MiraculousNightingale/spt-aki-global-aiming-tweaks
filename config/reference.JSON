@@ -1,0 +1,43 @@
+{
+    "comment1": "Use this only as reference to see what properties you can change in the Aiming object of global config",
+    "comment2": "Values might differ from the ones in the Aki_Data/Server/database/globals.json",
+    "comment3": "Multipliers are intended to be used only on simple numbers, you might want to avoid trying to multiply a property with an object as it's value",
+    "comment4": "More detailed about some properties: https://hub.sp-tarkov.com/doc/entry/48-recoil-values-and-what-they-do/",
+    "Aiming": {
+        "ProceduralIntensityByPose": {
+            "x": 0.33,
+            "y": 0.66,
+            "z": 1
+        },
+        "AimProceduralIntensity": 1,
+        "HeavyWeight": 9,
+        "LightWeight": 0.6,
+        "MaxTimeHeavy": 2.4,
+        "MinTimeHeavy": 0.95,
+        "MaxTimeLight": 2,
+        "MinTimeLight": 0.35,
+        "RecoilScaling": 1,
+        "RecoilDamping": 0.7,
+        "CameraSnapGlobalMult": 0.5,
+        "RecoilXIntensityByPose": {
+            "x": 0.35,
+            "y": 0.7,
+            "z": 1
+        },
+        "RecoilYIntensityByPose": {
+            "x": 0.7,
+            "y": 0.7,
+            "z": 1
+        },
+        "RecoilZIntensityByPose": {
+            "x": 0.7,
+            "y": 0.7,
+            "z": 1
+        },
+        "RecoilCrank": false,
+        "RecoilHandDamping": 0.45,
+        "RecoilConvergenceMult": 1,
+        "RecoilVertBonus": 20,
+        "RecoilBackBonus": 20
+    }
+}
